@@ -1,4 +1,4 @@
-Project Overview:
+📌Project Overview:
 The Secure Online Voting System with Face Recognition is a web-based application designed to provide a secure, transparent, and reliable voting process. The system uses Machine Learning–based face recognition to authenticate voters, ensuring that only eligible voters can cast their vote and that each voter can vote only once.
 This project aims to eliminate common issues in traditional voting systems such as impersonation, duplicate voting, and manual errors, while enabling remote voting in a secure manner.
 🎯 Objectives:
